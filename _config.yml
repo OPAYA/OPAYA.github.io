@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "진화하자"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Juntae"
 description              : "An amazing website."
 url                      : "https://opaya.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juntae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "다양한 분야를 공부하는 컴쟁이입니다."
+  location         : "Seoul, Republic of Korea"
+  email            : kjt7889@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -123,13 +123,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: https://www.facebook.com/kjt7889
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: https://github.com/OPAYA
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: https://instagram.com/juntae0811
 
 # Site Footer
 footer:

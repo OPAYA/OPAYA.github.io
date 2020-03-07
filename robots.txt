@@ -1,4 +1,4 @@
 User-agent:*
 Allow:/
 
-Sitemap : http://bokyeong-kim.github.io/sitemap.xml
+Sitemap : http://opaya.github.io/sitemap.xml

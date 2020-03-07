@@ -12,7 +12,8 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 <br>
 
--  2020.01 ~ ing  Standigm AI Engineer <p>
+-  2020.01 ~ ing   Standigm AI Engineer <p>
+	<p>
 -  2019.11 ~ 2019.12  Standigm 인턴 <p>
 	<p>
 -  2019.03 ~ ing  고려대학교 석사과정(prof. 주재걸 교수님) <p>
